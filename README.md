@@ -16,6 +16,6 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. It 
 - JavaScript (Vanilla JS)
 
 ## 🌐 Live Demo
-Coming soon...
+https://agent-6a0da295f88eca1a590628b3--portfolio-melala.netlify.app/
 
 ## 📁 Project Structure
